@@ -1,8 +1,0 @@
-REM opens 18+ site on Android
-REM by ilya poly
-GUI b
-CTRL t
-STRING https://adult.noodlemagazine.com/video/femboy
-ENTER
-DELAY 1000
-
