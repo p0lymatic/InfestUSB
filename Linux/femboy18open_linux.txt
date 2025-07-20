@@ -1,0 +1,5 @@
+CTRL-ALT t
+DELAY 500
+STRING xdg-open https://adult.noodlemagazine.com/video/femboy
+DELAY 2000
+F11
