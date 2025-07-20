@@ -1,3 +1,4 @@
+REM open femboy 18+
 CTRL-ALT t
 DELAY 500
 STRING xdg-open https://adult.noodlemagazine.com/video/femboy

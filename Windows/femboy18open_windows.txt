@@ -1,0 +1,7 @@
+REM open femboy 18+
+DELAY 500
+WINDOWS r
+STRING open https://adult.noodlemagazine.com/video/femboy
+ENTER
+DELAY 2000
+F11
