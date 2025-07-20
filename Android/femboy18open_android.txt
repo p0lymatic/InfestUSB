@@ -1,6 +1,7 @@
 REM open femboy 18+
 DELAY 500
 GUI b
+DELAY 500
 CTRL t
 STRING https://adult.noodlemagazine.com/video/femboy
 ENTER
