@@ -1,0 +1,10 @@
+REM TITLE Mouse Sensivitity Prank
+REM AUTHOR Poly
+REM OS Windows
+WINDOWS r
+DELAY 500
+STRINGLN ps
+DELAY 4000
+STRINGLN Set-ItemProperty -Path "HKCU:\Control Panel\Mouse" -Name "MouseSensitivity" -Value "1"
+DELAY 500
+ALT F4

